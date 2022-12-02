@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p>Rafa Ballerini bot landing page</p>
+  <p>Starbucks landing page</p>
 </h1>
 
 <h1 align="center">
